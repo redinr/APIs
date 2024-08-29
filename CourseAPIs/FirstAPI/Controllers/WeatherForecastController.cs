@@ -29,5 +29,11 @@ namespace FirstAPI.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("Teste")]
+        public string GetTeste()
+        {
+            return "Welcome in my API.";
+        }
     }
 }

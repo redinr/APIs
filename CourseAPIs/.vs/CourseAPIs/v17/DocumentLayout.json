@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RicardoRedin\\Documents\\Projects\\APIs\\CourseAPIs\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07436B37-033F-4B6E-8683-1C1D5BC74436}|FirstAPI\\FirstAPI.csproj|c:\\users\\ricardoredin\\documents\\projects\\apis\\courseapis\\firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07436B37-033F-4B6E-8683-1C1D5BC74436}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\RicardoRedin\\Documents\\Projects\\APIs\\CourseAPIs\\FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\RicardoRedin\\Documents\\Projects\\APIs\\CourseAPIs\\FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T00:25:59.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
