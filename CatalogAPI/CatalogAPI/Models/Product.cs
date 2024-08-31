@@ -8,4 +8,6 @@ public class Product
     public string? ImageUtl { get; set; }
     public float Stok { get; set; }
     public DateTime RegistretionDate { get; set; }
+    public int IdCategory { get; set; }
+    public Category? Category { get; set; }
 }

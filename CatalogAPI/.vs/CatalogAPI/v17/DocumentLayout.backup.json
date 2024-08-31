@@ -47,8 +47,7 @@
               "RelativeToolTip": "CatalogAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T13:58:05.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T13:58:05.159Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "CatalogAPI\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T13:53:45.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T13:53:45.549Z"
             }
           ]
         }
