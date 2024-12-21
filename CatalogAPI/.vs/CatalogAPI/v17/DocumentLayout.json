@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Developer\\Documents\\ProjectsPrivates\\APIs\\CatalogAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Developer\\Documents\\ProjectsPrivates\\APIs\\CatalogAPI\\CatalogAPI\\Migrations\\20241221133801_AdjustmentsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CatalogAPI\\Migrations\\20241221133801_AdjustmentsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{58E6CC71-8E37-4492-ACBF-03A009ADE6CA}|CatalogAPI\\CatalogAPI.csproj|c:\\users\\developer\\documents\\projectsprivates\\apis\\catalogapi\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E6CC71-8E37-4492-ACBF-03A009ADE6CA}|CatalogAPI\\CatalogAPI.csproj|solutionrelative:catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20241221133801_AdjustmentsTables.cs",
+              "DocumentMoniker": "C:\\Users\\Developer\\Documents\\ProjectsPrivates\\APIs\\CatalogAPI\\CatalogAPI\\Migrations\\20241221133801_AdjustmentsTables.cs",
+              "RelativeDocumentMoniker": "CatalogAPI\\Migrations\\20241221133801_AdjustmentsTables.cs",
+              "ToolTip": "C:\\Users\\Developer\\Documents\\ProjectsPrivates\\APIs\\CatalogAPI\\CatalogAPI\\Migrations\\20241221133801_AdjustmentsTables.cs",
+              "RelativeToolTip": "CatalogAPI\\Migrations\\20241221133801_AdjustmentsTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:38:02.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Developer\\Documents\\ProjectsPrivates\\APIs\\CatalogAPI\\CatalogAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "CatalogAPI\\Models\\Product.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Developer\\Documents\\ProjectsPrivates\\APIs\\CatalogAPI\\CatalogAPI\\Models\\Category.cs",
               "RelativeDocumentMoniker": "CatalogAPI\\Models\\Category.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "CatalogAPI\\Models\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T11:28:28.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T11:28:28.199Z"
             }
           ]
         }
