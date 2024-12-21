@@ -1,4 +1,5 @@
 ﻿using System.Collections.ObjectModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace CatalogAPI.Models
 {
@@ -8,8 +9,12 @@ namespace CatalogAPI.Models
         {
             Products = new Collection<Product>();
         }
-        public Guid Id { get; set; }
+        [Key]
+        public Guid Oid { get; set; }
+        [Required]
+        [StringLength(100)]
         public string? Name { get; set; }
+        [StringLength(500)]
         public string? UrlImage { get; set; }
         public ICollection<Product>? Products { get; set; }
     }
